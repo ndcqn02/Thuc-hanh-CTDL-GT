@@ -55,7 +55,7 @@ NL *CHEN(NL *d, int x)
 	}
 	
 	// het vong while ma khong chen duoc so, thi chi co the la so nho nhat or lon nhat trong day
-	if(tg == d)  // neu so chen la so nho nhat thì chèn vào dau
+	if(tg == d)  // neu so chen la so nho nhat thï¿½ chï¿½n vï¿½o dau
 	{
 		d = p;
 		p->tiep = tg;
